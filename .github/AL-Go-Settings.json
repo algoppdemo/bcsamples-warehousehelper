@@ -3,12 +3,12 @@
   "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
   "powerPlatformSolutionFolder": "WarehouseHelper",
   "environments": [
-    "Staging"
+    "Production"
   ],
   "DeployToStaging": {
-    "environmentName": "Sandbox",
-    "companyId": "f1678e37-e50b-ef11-9f8e-6045bdc8c192",
-    "ppEnvironmentUrl": "https://orgf287aea1.crm.dynamics.com/"
+    "environmentName": "Production",
+    "companyId": "a2303d64-d7b7-4b3f-a8e5-fba2c9027836",
+    "ppEnvironmentUrl": "https://org1e441a67.crm.dynamics.com/"
   },
   "templateSha": "8fedaa0bba2cf96f8b2b0c57b7d4ba88e9c7069b"
 }
