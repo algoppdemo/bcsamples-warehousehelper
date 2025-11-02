@@ -3,9 +3,9 @@
   "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
   "powerPlatformSolutionFolder": "WarehouseHelper",
   "environments": [
-    "Stating"
+    "Dev"
   ],
-  "DeployToStaging": {
+  "DeployToDev": {
     "environmentName": "Production",
     "companyId": "a2303d64-d7b7-4b3f-a8e5-fba2c9027836",
     "ppEnvironmentUrl": "https://org1e441a67.crm.dynamics.com/"
